@@ -10,7 +10,9 @@ I will attempt to place you in one of your top three choices.  Last semester, ev
 
 These are projects where you will be working directly with a company.  Note - if you end up on an Industry project, your course registration will change to CS1981.  This is an administrative detail and will have no impact on you other than a slightly different number appearing on your transcript.
 
-_NetApp_: (POC: Chuck Heinle)
+_NetApp_: One of NetApp’s primary products, ONTAP, promotes the ability to scale for large enterprise storage administration requirements.   Although our software is designed for vertical and horizontal scaling, the horizontal scaling (adding hundreds of machines to a cluster) faces problems in requiring physical resources which are not always available to validate these scenarios.    It is prohibitively expensive to obtain/provision thousands of nodes to validate new features that leverage the scaling.   Most testing can be done at small scale, and extrapolated out for large scale predictions.  
+ 
+The objective is to establish a framework that can create large scaled clusters in a virtual lab environment.  The framework would leverage VMWare products (e.g. VSphere Simulator).  Test applications will be created that would interact with the ESXCLI on each host to query information, and/or perform actions on each host. (POC: Chuck Heinle)
 
 _Viz_: PROJECT "RUMOR MILL" - One type of analytics that is useful, but not often employed is a simulation.  The project would be to create a prototype agent-based simulation system for the analysis of "flow" through a network.  The prototype can be a social network and the flow can be how gossip is spread.  This type of simulation can be extended for other networks (disease, computer virus, zombie attack!) and other flows.  The system would load a network of entities and relationships (as GraphML or a set of CSV input files), allow the user to specify simulation parameters including how data is transmitted from one entity to another, and then launch a simulation run, and then provide the data in a manner such that the user can do subsequent analysis and visualization. (POC: Dr. Mike Bigrigg)
 
@@ -19,8 +21,6 @@ _Yelp_: TBD (POC: Dean Thompson)
 ### Faculty Projects
 
 These are projects working with academic faculty, either at the University of Pittsburgh or elsewhere.
-
-_Sterile Compound Training in Augmented/Virtual Reality_: An augmented/virtual reality game for Pharmacy students to learn how to deal with sterile compounding.  This is an existing project, and so students will add additional functionality. (POC: Dr. Ravi Patel, University of Pittsburgh School of Pharmacy)
 
 _Pharmacy Quiz Game_: A currently existing application, this is an extendible web-based quiz game for Pharmacy students.  Students would work on adding additional functionality. (POC: Dr. Ravi Patel, University of Pittsburgh School of Pharmacy)
 
