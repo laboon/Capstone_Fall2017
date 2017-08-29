@@ -26,12 +26,6 @@ _Pharmacy Quiz Game_: A currently existing application, this is an extendible we
 
 _RxPedition_: Develop front-end and back-end features for an educational platform for a hybrid course/semesterlong game experience. Background: School of Pharmacy has a semester long course in the Spring semester for 2st year graduate pharmacy students to teach the various phases of drug development from pre-clinical testing through Phases 1-4 to FDA approval. The course includes ~110 students divided into ~20 teams and is facilitated by a team comprised of faculty and graduate students. The course is constructed as a game in which the team compete to bring a drug through the FDA approval process. The course is delivered as a hybrid course with a web-based platform called “RxPedition” which manages user/student input of forms/assignments/documents, FAQ between students/educators, messaging via emails, and educator assessment of student input. (POC: Dr. Ravi Patel, University of Pittsburgh School of Pharmacy)
 
-_Sweden project?_
-
-### Open-Source Non-Faculty
-
-_Triplett project?_
-
 ### Bioinformatics-Focused
 
 These projects have a focus on bioinformatics specifically.  Preference is given to BIOSC1640 or CS1640-registered students, or those with a background in bioinformatics or a related discipline.  However, this does not mean that if you are not a Bioinformatics student, that you are prevented from signing up for one of these projects!
