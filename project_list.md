@@ -8,7 +8,7 @@ I will attempt to place you in one of your top three choices.  Last semester, ev
 
 ### Industry Projects
 
-These are projects where you will be working directly with a company.  Note - if you end up on an Industry project, your course registration will change to CS1981.  This is an administrative detail and will have no impact on you other than a slightly different number appearing on your transcript.
+These are projects where you will be working directly with a company.  Note - if you end up on an Industry project, your course registration will change from CS1980 to CS1981.  This is an administrative detail and will have no impact on you other than a slightly different number appearing on your transcript.
 
 _NetApp_: One of NetApp’s primary products, ONTAP, promotes the ability to scale for large enterprise storage administration requirements.   Although our software is designed for vertical and horizontal scaling, the horizontal scaling (adding hundreds of machines to a cluster) faces problems in requiring physical resources which are not always available to validate these scenarios.    It is prohibitively expensive to obtain/provision thousands of nodes to validate new features that leverage the scaling.   Most testing can be done at small scale, and extrapolated out for large scale predictions.  
  
@@ -26,19 +26,13 @@ _Pharmacy Quiz Game_: A currently existing application, this is an extendible we
 
 _RxPedition_: Develop front-end and back-end features for an educational platform for a hybrid course/semesterlong game experience. Background: School of Pharmacy has a semester long course in the Spring semester for 2st year graduate pharmacy students to teach the various phases of drug development from pre-clinical testing through Phases 1-4 to FDA approval. The course includes ~110 students divided into ~20 teams and is facilitated by a team comprised of faculty and graduate students. The course is constructed as a game in which the team compete to bring a drug through the FDA approval process. The course is delivered as a hybrid course with a web-based platform called “RxPedition” which manages user/student input of forms/assignments/documents, FAQ between students/educators, messaging via emails, and educator assessment of student input. (POC: Dr. Ravi Patel, University of Pittsburgh School of Pharmacy)
 
-_Sweden project?_
+_Online IBD Assessment Tool_ - We would like to develop a personalized online assessment tool and application regarding preventive care recommendations for patients with inflammatory bowel disease (IBD). Our goal would be to create an assessment based on a few simple questions: age, immunosuppression use and type, and risk factors for meningococcal (military, college students). After answering these questions, it would lead to the generation of an automated form, the ‘IBD Preventive Passport’, which would serve as a comprehensive preventive tool, including recommendations for immunizations, labs that should be monitored while on certain types of immunosuppression, and osteoporosis and cancer screening. It would be ideal to be able to view the output on the application as well as printed out to allow for easier review with the primary gastroenterology provider and then shared between providers.
 
-### Open-Source Non-Faculty
-
-_Triplett project?_
+_UPMC Geriatrics?_:  My vision of this project would be to develop an electronically based Ring of Knowledge with the following features:  one-stop geriatric assessment app (similar to a collection of different medical calculators like Med Calc) where learner hovers over a list of assessments, clicks to open one up, enters the data requested in that assessment, then clicks "Complete Assessment" or "Calculate" to generate a response of "At risk for _____" or "Not currently at risk for ______ (assessment)." The app I envision would coach the learner to enter all of the information needed to calculate risk and would generate the interpretation of risk (Y/N) for the learner. (POC: Dr. Rollin Wright, Division of Geriatric Medicine)
 
 ### Bioinformatics-Focused
 
-These projects have a focus on bioinformatics specifically.  Preference is given to BIOSC1640 or CS1640-registered students, or those with a background in bioinformatics or a related discipline.  However, this does not mean that if you are not a Bioinformatics student, that you are prevented from signing up for one of these projects!
-
-_Online IBD Assessment Tool_ - We would like to develop a personalized online assessment tool and application regarding preventive care recommendations for patients with inflammatory bowel disease (IBD). Our goal would be to create an assessment based on a few simple questions: age, immunosuppression use and type, and risk factors for meningococcal (military, college students). After answering these questions, it would lead to the generation of an automated form, the ‘IBD Preventive Passport’, which would serve as a comprehensive preventive tool, including recommendations for immunizations, labs that should be monitored while on certain types of immunosuppression, and osteoporosis and cancer screening. It would be ideal to be able to view the output on the application as well as printed out to allow for easier review with the primary gastroenterology provider and then shared between providers.
-
-_UPMC Geriatrics_: (POC: Dr. Rollin Wright)
+These projects have a focus on bioinformatics specifically.  Preference is given to BIOSC1640 or CS1640-registered students, or those with a background in bioinformatics or a related discipline.  However, this does not mean that if you are not a Bioinformatics student that you are prevented from signing up for one of these projects!
 
 _Google Cardboard for 3Dmol.js_ Implement support for device motion control of a 3D view of a molecular model within a web browser using JavaScript.  1-2 students. http://3dmol.csb.pitt.edu/ (POC: David Koes)
 
