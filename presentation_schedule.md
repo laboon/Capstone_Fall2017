@@ -1,5 +1,7 @@
 # Internship / Research Presentation Schedule
 
+File your top three chosen dates as an issue (will go over in class) by Wednesday, 6 September at noon.
+
 ### 15 Sep 2017
 
 ### 29 Sep 2017
