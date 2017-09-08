@@ -61,6 +61,7 @@
 - Mitchell Strobel
 - Alexander Fisher
 - Joshua Gelenberg
+- John Linahan
 
 ## 8 Dec
 - Becca Addison
