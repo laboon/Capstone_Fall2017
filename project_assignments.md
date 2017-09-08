@@ -24,8 +24,11 @@
 - Bradley Dietz
 - Sakae Nakahara
 - Jason Ly
-
 ## Geriatrics " Ring of Knowledge" App
+- Emily Hanna
+- Kevin Tran
+
+## Online IBD Assessment Tool
 - Connie Xu
 - Rachel McQuown
 
