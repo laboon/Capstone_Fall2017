@@ -3,30 +3,31 @@
 ## Yelp
 - Randyll Bearer
 - Raj Patel
+- Zachary Barlotta
 
 ## NetApp
 - Jordan Britton
-- Martin Kennedy
+- Martin Kennedy 
+- Stephen Dowhy
 
 ## Viz
 - Julian Monticelli
 - Tianjian Meng
+- Emily Hanna
 
-## Pharmacy Quiz Game
-- Kenny Tran
-- Zachary Barlotta
-
-## RxPedition
+## Quiz Game
 - Jessica Mesler
 - Siming Zheng
+- Ben Kristofic
 
 ## School of Education Qualitative Research App
 - Bradley Dietz
 - Sakae Nakahara
 - Jason Ly
-## Geriatrics " Ring of Knowledge" App
-- Emily Hanna
+
+## Geriatrics "Ring of Knowledge" App
 - Kevin Tran
+- Kenny Tran
 
 ## Online IBD Assessment Tool
 - Connie Xu
@@ -36,5 +37,4 @@
 - Brett Schuck
 
 ## Durrant Projects
-- Jane Janerson
 - William Harrison

@@ -1,21 +1,87 @@
-# Internship / Research Presentation Schedule
+# Presentation Schedule (Internship/Research)
 
-File your top three chosen dates as an issue (will go over in class) by Wednesday, 6 September at noon.
+## 15 Sep
+- Twesha Mitra
+- Brandon Hedges
+- Amani Johnson
+- Solomon Astley
+- Adam Richman
+- Joseph Rogers
+- Kyle Amoroso
+- Jonathan Dyer
 
-### 15 Sep 2017
+## 29 Sep
+- Kevin Longmuir
+- Collin Dreher
+- John Chung
+- Kaitlynn Hetzel
+- In-Tae Nam
+- James Misner
+- Luke Gerhart
+- John Ha
+- Benjamin Lodi
+- Kevin Klute
 
-### 29 Sep 2017
+## 13 Oct
+- Alexa Swihart
+- David Rocker
+- Jonathon Hanobik
+- Scott Crawford
+- Alexander Coroi
+- Spencer Cousino
+- Andrea Shields
+- Kyle Chaya
+- Craig Mazzotta
 
-### 13 Oct 2017
+## 27 Oct
+- Jacob Boissonault
+- Kristen Gardner
+- Colin Mason
+- Conor Lamb
+- Jordan Grogan
+- Adam Hayes
+- Angel Chang
+- Dominic DiPasquale
 
-### 27 Oct 2017
+## 10 Nov
+- Ken Woodruff
+- Paul Hauser
+- Matthew Mancino
+- Andrew LeCours
+- Bri Lehman
+- Alex Rowden
+- Tim Hartman
+- Eric Dong
+- Corey Noel
 
-### 10 Nov 2017
+## 17 Nov
+- Andrew Deuley
+- Andrew Levandoski
+- Dillon Schetley
+- Eli Coyle
+- Roger Jordan
+- Ryan McGauley
+- Alec Trievel
+- Julian Druzdzel
 
-### 17 Nov 2017
+## 1 Dec
+- Ahmed Abdelsalam
+- Shawn Banish
+- Alden Hsu
+- Mitchell Strobel
+- Alexander Fisher
+- Joshua Gelenberg
+- John Linahan
+- Brendan Kerr
 
-### 1 Dec 2017
-
-### 8 Dec 2017
-  
+## 8 Dec
+- Becca Addison
+- Timotheus Hinton
+- Joshua Kephart
+- Dalton Sharff
+- Peter Mulholland
+- Eric Ghildyal
+- Alex Dawson
+- John Fahnestock
+- Dalton Scharff
 
