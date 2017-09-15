@@ -1,7 +1,7 @@
 # Presentation Schedule (Internship/Research)
 
 ## 15 Sep
-- Twesha Mitra
+- Twesha Mitra *
 - Brandon Hedges
 - Amani Johnson
 - Solomon Astley
