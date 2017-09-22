@@ -2,13 +2,13 @@
 
 ## 15 Sep
 - Twesha Mitra *
-- Brandon Hedges
-- Amani Johnson
-- Solomon Astley
-- Adam Richman
-- Joseph Rogers
+- Brandon Hedges *
+- Amani Johnson *
+- Solomon Astley *
+- Adam Richman *
+- Joseph Rogers *
 - Kyle Amoroso
-- Jonathan Dyer
+- Jonathan Dyer *
 
 ## 29 Sep
 - Kevin Longmuir
