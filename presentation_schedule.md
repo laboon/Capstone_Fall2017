@@ -11,27 +11,27 @@
 - Jonathan Dyer *
 
 ## 29 Sep
-- Kevin Longmuir
-- Collin Dreher
-- John Chung
-- Kaitlynn Hetzel
-- In-Tae Nam
-- James Misner
-- Luke Gerhart
-- John Ha
-- Benjamin Lodi
-- Kevin Klute
+- Kevin Longmuir *
+- Collin Dreher *
+- John Chung *
+- Kaitlynn Hetzel *
+- In-Tae Nam *
+- James Misner *
+- Luke Gerhart *
+- John Ha *
+- Benjamin Lodi *
+- Kevin Klute *
 
 ## 13 Oct
-- Alexa Swihart
-- David Rocker
-- Jonathon Hanobik
-- Scott Crawford
-- Alexander Coroi
-- Spencer Cousino
-- Andrea Shields
-- Kyle Chaya
-- Craig Mazzotta
+- Alexa Swihart *
+- David Rocker *
+- Jonathon Hanobik *
+- Scott Crawford *
+- Alexander Coroi *
+- Spencer Cousino *
+- Andrea Shields *
+- Kyle Chaya *
+- Craig Mazzotta *
 
 ## 27 Oct
 - Jacob Boissonault
