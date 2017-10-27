@@ -34,14 +34,14 @@
 - Craig Mazzotta *
 
 ## 27 Oct
-- Jacob Boissonault
-- Kristen Gardner
-- Colin Mason
-- Conor Lamb
-- Jordan Grogan
-- Adam Hayes
-- Angel Chang
-- Dominic DiPasquale
+- Jacob Boissonault *
+- Kristen Gardner *
+- Colin Mason *
+- Conor Lamb *
+- Jordan Grogan *
+- Adam Hayes *
+- Angel Chang *
+- Dominic DiPasquale *
 
 ## 10 Nov
 - Ken Woodruff
