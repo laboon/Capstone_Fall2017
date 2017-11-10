@@ -7,7 +7,7 @@
 - Solomon Astley *
 - Adam Richman *
 - Joseph Rogers *
-- Kyle Amoroso
+- Kyle Amoroso X
 - Jonathan Dyer *
 
 ## 29 Sep
@@ -44,15 +44,14 @@
 - Dominic DiPasquale *
 
 ## 10 Nov
-- Ken Woodruff
-- Paul Hauser
-- Matthew Mancino
-- Andrew LeCours
-- Bri Lehman
-- Alex Rowden
-- Tim Hartman
-- Eric Dong
-- Corey Noel
+- Ken Woodruff *
+- Paul Hauser *
+- Matthew Mancino *
+- Andrew LeCours *
+- Bri Lehman *
+- Alex Rowden *
+- Tim Hartman o
+- Eric Dong *
 
 ## 17 Nov
 - Andrew Deuley
