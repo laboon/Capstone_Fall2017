@@ -50,7 +50,7 @@
 - Andrew LeCours *
 - Bri Lehman *
 - Alex Rowden *
-- Tim Hartman o
+- Tim Hartman *
 - Eric Dong *
 
 ## 17 Nov
