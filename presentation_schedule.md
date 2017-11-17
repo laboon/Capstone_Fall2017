@@ -54,14 +54,14 @@
 - Eric Dong *
 
 ## 17 Nov
-- Andrew Deuley
-- Andrew Levandoski
-- Dillon Schetley
-- Eli Coyle
-- Roger Jordan
-- Ryan McGauley
-- Alec Trievel
-- Julian Druzdzel
+- Andrew Deuley *
+- Andrew Levandoski *
+- Dillon Schetley *
+- Eli Coyle *
+- Roger Jordan *
+- Ryan McGauley *
+- Alec Trievel *
+- Julian Druzdzel *
 
 ## 1 Dec
 - Ahmed Abdelsalam
