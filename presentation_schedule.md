@@ -70,7 +70,7 @@
 - Mitchell Strobel
 - Alexander Fisher
 - Joshua Gelenberg
-- John Linahan
+- John Linahan O
 - Brendan Kerr
 
 ## 8 Dec
