@@ -64,23 +64,34 @@
 - Julian Druzdzel *
 
 ## 1 Dec
-- Ahmed Abdelsalam
-- Shawn Banish
-- Alden Hsu
-- Mitchell Strobel
-- Alexander Fisher
-- Joshua Gelenberg
+- Ahmed Abdelsalam *
+- Shawn Banish O 
+- Alden Hsu *
+- Mitchell Strobel *
+- Alexander Fisher *
+- Joshua Gelenberg *
 - John Linahan O
-- Brendan Kerr
+- Brendan Kerr *
 
 ## 8 Dec
 - Becca Addison
 - Timotheus Hinton
 - Joshua Kephart
-- Dalton Sharff
 - Peter Mulholland
 - Eric Ghildyal
 - Alex Dawson
 - John Fahnestock
 - Dalton Scharff
+
+## PROJECT PRESENTATIONS
+
+- SoE Qualitative Research App *
+- NetApp *
+- Online IBD Assessment *
+- Quiz Game *
+- Yelp
+- Viz
+- Geriatrics Ring of Knowledge
+- Google Cardboard for 3dmol.js
+- Durrant Project
 
