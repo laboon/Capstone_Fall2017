@@ -65,12 +65,12 @@
 
 ## 1 Dec
 - Ahmed Abdelsalam *
-- Shawn Banish O 
+- Shawn Banish *
 - Alden Hsu *
 - Mitchell Strobel *
 - Alexander Fisher *
 - Joshua Gelenberg *
-- John Linahan O
+- John Linahan *
 - Brendan Kerr *
 
 ## 8 Dec
