@@ -74,14 +74,14 @@
 - Brendan Kerr *
 
 ## 8 Dec
-- Becca Addison
-- Timotheus Hinton
-- Joshua Kephart
-- Peter Mulholland
-- Eric Ghildyal
-- Alex Dawson
-- John Fahnestock
-- Dalton Scharff
+- Becca Addison *
+- Timotheus Hinton *
+- Joshua Kephart *
+- Peter Mulholland *
+- Eric Ghildyal *
+- Alex Dawson *
+- John Fahnestock *
+- Dalton Scharff *
 
 ## PROJECT PRESENTATIONS
 
