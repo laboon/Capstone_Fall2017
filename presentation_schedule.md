@@ -89,9 +89,8 @@
 - NetApp *
 - Online IBD Assessment *
 - Quiz Game *
-- Yelp
-- Viz
-- Geriatrics Ring of Knowledge
-- Google Cardboard for 3dmol.js
-- Durrant Project
-
+- Yelp *
+- Viz *
+- Geriatrics Ring of Knowledge *
+- Google Cardboard for 3dmol.js *
+- Durrant Project *
