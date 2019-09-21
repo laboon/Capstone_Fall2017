@@ -66,7 +66,6 @@
 ## 1 Dec
 - Ahmed Abdelsalam *
 - Shawn Banish *
-- Alden Hsu *
 - Mitchell Strobel *
 - Alexander Fisher *
 - Joshua Gelenberg *
